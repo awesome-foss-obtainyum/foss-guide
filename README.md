@@ -422,6 +422,10 @@ What are some of the best FOSS Solutions available?
 			- With both of these Apps installed, one can use Droidify to find out if there are any Anti Features in the desired app. If one chooses the app is suitable and contains no anti-features, they may copy the GitHub Link provided in the App description, then paste that link into Obtanium if they prefer to fetch the pure APK (Without the F-Droid Signature)<br>
 			- For further Auditing of Apps, one can also make use of Aurora Store and App Manager (Can be found on F-Droid/Droidify). Both of these apps can provide a description of any trackers that may be found within apps. This helps to bring consciousness to how Apps use the internet and trackers which is where data often is leaked through.
             </details></details>
+	    </b></summary><details><summary>
+     		- For Linux Users
+	    </summary></b>
+     			You are the Solution! xD . Thank You
 
 ## A Simple Guide for Android Users to reducing and eliminating most (if not all) internet related risks.
 
