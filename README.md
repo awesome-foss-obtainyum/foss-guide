@@ -1,4 +1,5 @@
 ## Why FOSS?
+
 <details><summary><b>
 46 Ways FOSS Benefits Mankind Explained by Perplexity AI
 </b></summary><ul>
@@ -311,7 +312,6 @@ quick recovery efforts while maintaining transparency of the movement of aid fun
 FOSS promotes digital inclusion by providing accessible and affordable   
 software solutions that cater to a wide range of users, including  
 underserved communities.
-</details>
 </details></details></ul><details><summary><b>
 What can FOSS Prevent
 </b></summary>
@@ -335,18 +335,17 @@ What can FOSS Encourage / Promote and do for Humanity
 - Encourages and Promotes Transparent / Provable Security<br>
 - Encourages and Promotes Transparent / Provable Permanence of Data<br>
 <details><summary>
-- Some examples:
+Some examples:
 </summary>
+
 - Blockchains & Some Cryptocurrencies
 - Storj - Decentralized Secure Cloud Storage
 - Guaranteed Transparent Infrastructures
-</details></details>
-<details><summary><b>
+</details></details><details><summary><b>
 What is the FOS Principle in Analogies?
-</b></summary><details><ul>
-<summary>
+</b></summary><summary>
 The Analogy of Recipes on Youtube
-</summary>
+</summary><details>
 
 >- Have you ever wanted to make a recipe and then found yourself searching YouTube to find the one that looks just right for you and then copied it and made the recipe at home? To help better explain what Free & Open Source Principles are, imagine that All Recipes that can be found on YouTube (unless an ingredient is being omitted) are basically Open Source. One is able to copy the "Code" (Recipe) and Make (Build) the Recipe (Code) at home simply by following the instructions and copying the Recipe (Code). Now let's say you decided to add your own extra ingredient to make the recipe taste better. Improving the Recipe is the same as Improving the Code. Because this Recipe is Publicly available on YouTube, it would not matter if people decided to copy this Recipe, make the product, and sell and redistribute the final product from the recipe. In fact we are already living in a world of Open Information, whether it is related to working out, finding diet plans, learning to grow food at home or learning gardening techniques, there are many videos on YouTube that one can use to learn just about anything. Basically it is all Open Knowledge.
 </details><details><summary>
@@ -355,53 +354,56 @@ The Analogy of  The Two Buildings that Store all your Private Data
 
 >- One building is made with a strong clear and transparent walls, floors, ceiling, and all of its components completely transparent, allowing
 for the flow of light to shine through into every area and component of the building. This building symbolizes Free and Open Source Software (FOSS), where transparency is the architecture itself, enabling light to illuminate every aspect of the software and all the operations within it. In this building, the openness and visibility act as a beacon, ensuring that there are no hidden areas where unauthorized activities could occur at least not without being fully visible and noticeable. When this Building offers to store your data safely you can verify their actions simply by seeing through all the transparent architecture where you data flows in and out of. Being able to see through the entire building the need for trust and blind faith are eliminated completely. 
+
 >- Now, envision another building with very thick, concrete walls that block out any light, and where any access is strictly prohibited. This building represents closed-source, proprietary software where the absence of light due to the thick concrete walls creates an environment of obscurity. In this building where no one is allowed, hidden backdoors, underground passages and covert pathways could exist without being revealed to anyone. Even though you may not see anyone else entering this building, underground operations can be taking place, posing a threat to data privacy and security. Data may be leaked without detection, and security vulnerabilities would only be visible to a very select few if any at all, who are granted access. When this Building offers to store you private  data safely, you are left with only blind faith to trust that they are being honest and careful in handling your private data.
 - By contrasting the two different types of buildings we can see the analogy of how everyday we make the decision to use technology and hand over our data to Software and Operating Systems that will operate on either Transparency and Clarity, or Obscurity and Uncertainty.
 - To put more simply, we will come to many decision-making points in our lives where we will choose to either
-- A. Pay for Darkness, Blind Faith, Obscurity, and Uncertainty that comes inherently with Closed Source/Proprietary Software/Systems.
-- B. Embrace Open Source Software/Systems, choosing Freedom, Light, Transparency and Clarity which is typically also Free of Cost.
+    - A. Pay for Darkness, Blind Faith, Obscurity, and Uncertainty that comes inherently with Closed Source/Proprietary Software/Systems.
+    - B. Embrace Open Source Software/Systems, choosing Freedom, Light, Transparency and Clarity which is typically also Free of Cost.
 - This is important to realize because many times, not only do we enable reckless and careless access to our data, but in fact many people are in essence paying to have their data stolen. This is exemplified by people who pay a large sum of money to purchase iOS devices which are the most closed of all closed-source devices and operating systems to say the least without mentioning the limiting and technologically suppressing anti-features (such as not being able to insert SD Cards or Transfer Files to any Computer in a simple manner). 
 There were many people who were aware of the backdoors built-in to iOS devices many years before it made the news and was brought to light. Many people fell victim to private data leaks due to this.   
 The entire concept represented by all of the workings of the Apple have failed the test of time and continue to fail to this day.
-</ul></details>
+</ul></details></details>
 </details><details><summary><b>
 How can one participate in the growth, promotion and encouragement of the Open Source Philanthropical and Philosophical Practices?
 </b></summary>
+
 - If one wishes to participate in the growth, promotion and encouragement of the Open Source Philosophies and Practices, one should build upon what has been built with Open Source, such as choosing to switch to FOSS Operating Systems such as Linux, Gnu, Android, etc. while avoiding Windows, iOS, Mac, which are closed-source Operating Systems.
 - An excellent way to promote this practice is to liberate friends and family from using the default YouTube app on Android by encouraging them to try NewPipe where they can download Audio, Video, Subtitles, and allow Videos to Play their Audio in the Background. NewPipe can also be used to access and Soundcloud and Download Audio Files
 - Whether one is stuck with a Closed-Source Operating System or whether they choose to Adhere to Open Source Systems, the next step in improving the protection of data and avoiding phising, malware, hacking, is to learn to use Firewalls and Network Monitoring Tools, since these will give a clear insight on all internet traffic that may occur on their devices.
 </details><details><summary><b>
 What other real-world applications besides software can the concept of Free and Open Source (FOS) be used in?
 </b></summary><details><summary>
-- FOS Local Businesses
+FOS Local Businesses
 </summary>
 - An example of a FOS Business would be a Transparent Car Repair Shop where the entire process of a car repair is recorded on a camera and this data is open and shared with the client to ensure quality of work, quality of components, proper labor, and to prevent deceptive and abusive behavior that could result in having to bring the car back to the Car Repair Shop.<br>
 - Another example of a FOS Business could be a Local Organic Farm that has open access to 24/7 Surveillance of the crops and a brief recording of the sewing/harvesting process in a way that can guarantee with proof to its clients that no GMO or Pesticides were used and in other words 100% Provably Organic.<br>
 - Another example can be a Local Animal Farm with open access to 24/7 Surveillance that can prove no Animals were mistreated and that the farm is cruelty free.
-</details><details><summary>
-- FOS Government
+<details><summary>
+FOS Government
 </summary>
 - An example of FOS Governance would be with the use of Smart Contracts and Smart Escrows, we could have instead of candidates making promises which are often broken, candidates who deposit a very large sum of money to invest into a project that will be ongoing within a given deadline while also promising to maintain and administrate this project until the end of the deadline. Now we will put in the context of what a contract would look like to further this example:<br>
 - The Candidate deposits 10M local currency. Assuming a population of 10M, each citizen would only deposit their Share, in other words 1 Local Currency. This means that the citizens have almost nothing to lose while the Candidate is putting their money where their mouth is, and in the scenario that the candidate does not fulfil their duties, the contract could be configured in any way but for this example we will say the candidates 10M gets distributed among the citizens if the candidate does not comply with their duties within the proposed deadline.
 Now we can imagine an entire government running itself almost entirely, and people simply bringing forth actions with the money of the people<br>
 - With many candidates invested in projects, having built a suitable reputation, the people would have an easier time trusting candidates by checking the "curriculum" of each candidate and analyzing to decide whether they are suitable to be leaders of the local areas or the presidency they are trying to achieve. This means that mostly everything would be simply action first and money is used a security deposits to hold those actions accountable.
 </details><details><summary>
-- FOS Currency (Crypto)
+FOS Currency (Crypto)
 </summary>
 - Bitcoin and all Cryptocurrency Derivatives are the most obvious examples of a FOS Currency. It is Open Source and all existing crypto-currencies have been built using Bitcoin's Code.
 </details><details><summary>
-- Other FOS Concepts
+Other FOS Concepts
 </summary><ul>
-Open Source Ecology<br>
-Open Source Spirituality <br>
-Open Source<br>
+
+* Open Source Ecology<br>
+* Open Source Spirituality <br>
+* Open Source <br>
 </ul></details></details><summary><b>
 
-# The Best FOSS Solutions
+## The Best FOSS Solutions
 </b></summary>
-<details><summary>
+<details><summary><b>
 For Windows Users
-</summary>
+</b></summary>
 
 There are two powerful Open Source Firewalls which if combined together can provide excellent safety measures against most threats that depend on internet connections. Namely, these are <b>Portmaster</b> and <b>Simplewall</b>
 
@@ -409,25 +411,27 @@ There are two powerful Open Source Firewalls which if combined together can prov
 
 - **Simplewall** can block most unnecessary network connections that are enabled by default in windows, but even better, Simple Wall allows one to give individual apps internet access using a timer, allowing one to allow an app only the amount of time needed to perform an action (for eg. an update). This is also excellent to audit apps and ensure one does not accidentally block an app that is crucial while finding out if the app in question ever needed internet access at all (Surprisingly many Windows/Microsoft apps do not need internet, it is fair enough to ensure no data is leaked by blocking most of them)
 </details><details><summary><b>
-- For Any and All your devices
+For Any and All your devices
 </b></summary>
 it is worth researching (Just ask AI) how to use Pi-Holes and set one up at home. The Pi-Hole can provide basic-to-advanced level protection for all your devices by using DNS. You may also want to look into FOSS Routers such as:<br>
+
 * LibreRouter<br>
 * pfSense<br>
 * TurrisOmnia<br>
 * OpenWrt<br>
 </details><details><summary><b>
-- For Android Users
+For Android Users
 </b></summary>
+
 - Making use of both Droidify combined with Obtainium makes for an excellent way of finding and downloading Apps. Currently Droidify can explore the entire F-Droid Repository, while Obtainium is manual and can be used to get Apps directly from Github if available<br>
 - Droidify is a client for the F-Droid Repository (A repository tasked with hosting only FOSS Android Apps, which also checks to ensure the apps require only the permissions that are being claimed and to ensure the integrity vs Anti-Features that may be built in). To do this sort of certification process, F-Droid scans the APK Source code, then adds its own signature to the APK to sort of "verify" or "certify" that there are no Anti-Features that would go by unnoticed, while listing any Anti Features that may be found in the code.<br>
 - Obtainium is an App designed to fetch and install FOSS Apps directly from Github if available.<br>
 - With both of these Apps installed, one can use Droidify to find out if there are any Anti Features in the desired app. If one chooses the app is suitable and contains no anti-features, they may copy the GitHub Link provided in the App description, then paste that link into Obtanium if they prefer to fetch the pure APK (Without the F-Droid Signature)<br>
 - For further Auditing of Apps, one can also make use of Aurora Store and App Manager (Can be found on F-Droid/Droidify). Both of these apps can provide a description of any trackers that may be found within apps. This helps to bring consciousness to how Apps use the internet and trackers which is where data often is leaked through.
 </details><details><summary><b>
-- For Linux Users
+For Linux Users
 </b></summary>
-	You are the Solution xD . Thank You. Keep Being Awesome and promote the use of Linux.
+You are the Solution xD . Thank You. Keep Being Awesome and promote the use of Linux.
 </details></details>
 
 ## A Simple Guide for Android Users to reducing and eliminating most (if not all) internet related risks.
@@ -444,7 +448,7 @@ Take your time to explore the App and Learn of every feature, be patient with yo
 >**Step 4.** Think about what apps you use and need the most and check to see if there is a FOSS alternative or equivalent with [Droidify](https://f-droid.org/en/packages/com.looker.droidify/). 
 If there is a FOSS App equivalent, this is how I began pioneering and exploring FOSS Apps, until finally coming to this time where most of the Apps I need are available in FOSS form. This is why this Github was created to Star the Apps I use and recommend the most so that it would be easy to import into Obtainium and to share with anyone who wishes to benefit from this same practice.
 
-<details><summary>
+</details><details><summary>
 Further Considerations for the coming ages of exponential technological advancements.
 </summary><details><summary>
 To Solve Corruption in Politics and Fraudulent Deception within Governments or Institutionalized Systems
@@ -468,7 +472,7 @@ To prepare for AI and other technology that can create deceptive, misleading inf
 - Avoid using (closed-source) Apps that can and likely (if not already do) sell your data and that probably have built-in backdoors
 - Adhere to only encrypted means of communication such as using e-mail with PGP and encrypting all mail by default
 - Adhering to using only FOSS Apps as much as possible while becoming a Master in Firewalls is the best way to prevent personal private data being leaked
-<details><summary><b>
+</details></details><details><summary><b>
 Related Links
 </b></summary><ul>
 
