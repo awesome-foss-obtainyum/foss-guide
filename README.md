@@ -5,7 +5,7 @@ Before FOSS
 </b></summary>
 
 Before the Terms Open Source Software came to be it was often referred to as **Free Software**. It is important to understand that everytime we hear the word Open Source we remember that the roots of this term are in the **Free and Libre** understanding of things. This is important because we will understand that some software will either support, encourage, and enable Freedom, or it won't. This is Open Source vs. Closed Source (Propietary). Let us not forget that the word Free within FOSS means Free as in _Free of Cost_ but also Free as in encouraging, supportive, and enabling of Freedom itself.
-<details><summary><b>
+</details><details><summary><b>
 46 Ways FOSS Benefits Mankind Explained by Perplexity AI
 </b></summary><ul>
 <details><summary><b>
