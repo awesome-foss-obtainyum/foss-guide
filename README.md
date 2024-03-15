@@ -1,4 +1,4 @@
-## Why FOSS?
+## Why FOSS Matters
 
 <details><summary><b>
 Before FOSS
@@ -346,35 +346,39 @@ Some examples:
 - Blockchains & Some Cryptocurrencies
 - Storj - Decentralized Secure Cloud Storage
 - Guaranteed Transparent Infrastructures
-</details></details><details><summary><b>
+</details></details>
+<details><summary><b>
 What is the FOS Principle in Analogies?
-</b></summary><summary>
+</b></summary><details><summary>   
 The Analogy of Recipes on Youtube
-</summary><details>
-
->- Have you ever wanted to make a recipe and then found yourself searching YouTube to find the one that looks just right for you and then copied it and made the recipe at home? To help better explain what Free & Open Source Principles are, imagine that All Recipes that can be found on YouTube (unless an ingredient is being omitted) are basically Open Source. One is able to copy the "Code" (Recipe) and Make (Build) the Recipe (Code) at home simply by following the instructions and copying the Recipe (Code). Now let's say you decided to add your own extra ingredient to make the recipe taste better. Improving the Recipe is the same as Improving the Code. Because this Recipe is Publicly available on YouTube, it would not matter if people decided to copy this Recipe, make the product, and sell and redistribute the final product from the recipe. In fact we are already living in a world of Open Information, whether it is related to working out, finding diet plans, learning to grow food at home or learning gardening techniques, there are many videos on YouTube that one can use to learn just about anything. Basically it is all Open Knowledge.
-</details><details><summary>
-The Analogy of  The Two Buildings that Store all your Private Data
 </summary>
 
->- One building is made with a strong clear and transparent walls, floors, ceiling, and all of its components completely transparent, allowing
-for the flow of light to shine through into every area and component of the building. This building symbolizes Free and Open Source Software (FOSS), where transparency is the architecture itself, enabling light to illuminate every aspect of the software and all the operations within it. In this building, the openness and visibility act as a beacon, ensuring that there are no hidden areas where unauthorized activities could occur at least not without being fully visible and noticeable. When this Building offers to store your data safely you can verify their actions simply by seeing through all the transparent architecture where you data flows in and out of. Being able to see through the entire building the need for trust and blind faith are eliminated completely. 
+>Have you ever wanted to make a recipe and then found yourself searching YouTube to find the one that looks just right for you and then copied it and made the recipe at home? To help better explain what Free & Open Source Principles are, imagine that All Recipes that can be found on YouTube (unless an ingredient is being omitted) are basically Free and Open Source. One is able to copy the "Source Code" (Recipe) and "Build" (Make) the "Code" (Recipe) at home simply by copying/cloning it (following the instructions). Now let's say you decided to add your own extra ingredient to make the recipe taste better. Improving the Recipe is the same as Improving the Code. Because this Recipe is Publicly available on YouTube, it would not matter if people decided to copy this Recipe, make the product, and sell and redistribute the final product from the recipe. In fact we are already living in a world of Open Information mostly through YouTube Videos and Tutorials, whether it is related to working out, finding diet plans / patterns, home remedies, health improving, learning to grow food at home, learning gardening techniques, there are many videos on YouTube that one can use to learn just about anything. Basically it is all Open Knowledge.
+</details><details><summary>
+The Analogy of The Two Buildings that Store all your Private Data
+</summary>
 
->- Now, envision another building with very thick, concrete walls that block out any light, and where any access is strictly prohibited. This building represents closed-source, proprietary software where the absence of light due to the thick concrete walls creates an environment of obscurity. In this building where no one is allowed, hidden backdoors, underground passages and covert pathways could exist without being revealed to anyone. Even though you may not see anyone else entering this building, underground operations can be taking place, posing a threat to data privacy and security. Data may be leaked without detection, and security vulnerabilities would only be visible to a very select few if any at all, who are granted access. When this Building offers to store you private  data safely, you are left with only blind faith to trust that they are being honest and careful in handling your private data.
-- By contrasting the two different types of buildings we can see the analogy of how everyday we make the decision to use technology and hand over our data to Software and Operating Systems that will operate on either Transparency and Clarity, or Obscurity and Uncertainty.
-- To put more simply, we will come to many decision-making points in our lives where we will choose to either
-    - A. Pay for Darkness, Blind Faith, Obscurity, and Uncertainty that comes inherently with Closed Source/Proprietary Software/Systems.
-    - B. Embrace Open Source Software/Systems, choosing Freedom, Light, Transparency and Clarity which is typically also Free of Cost.
-- This is important to realize because many times, not only do we enable reckless and careless access to our data, but in fact many people are in essence paying to have their data stolen. This is exemplified by people who pay a large sum of money to purchase iOS devices which are the most closed of all closed-source devices and operating systems to say the least without mentioning the limiting and technologically suppressing anti-features (such as not being able to insert SD Cards or Transfer Files to any Computer in a simple manner). 
-There were many people who were aware of the backdoors built-in to iOS devices many years before it made the news and was brought to light. Many people fell victim to private data leaks due to this.   
+>For the First Building let's imagine it is made with strong clear and transparent walls, floors, ceiling, and all of its components completely transparent, allowing for the flow of light to shine through into every area and component of the building. This building symbolizes Free and Open Source Software (FOSS), where transparency is the architecture itself, enabling light to illuminate every aspect of the software and all the operations within it. In this building, the openness and visibility act as a beacon, ensuring that there are no hidden areas where unauthorized activities could occur at least not without being fully visible and noticeable. When this Building offers to store your data safely you can verify their actions simply by seeing through all the transparent architecture where you data flows in and out of. Being able to see through the entire building the need for trust and blind faith are eliminated completely. 
+
+>For the Second Building, let us envision another building with very thick, concrete walls that block out any light, and where any access is strictly prohibited. This building represents closed-source, proprietary software where the absence of light due to the thick concrete walls creates an environment of obscurity. In this building where no one is allowed, hidden backdoors, underground passages and covert pathways could exist without being revealed to anyone. Even though you may not see anyone else entering this building, underground operations can be taking place, posing a threat to data privacy and security. Data may be leaked without detection, and security vulnerabilities would only be visible to a very select few if any at all, who are granted access. When this Building offers to store you private  data safely, you are left with only blind faith to trust that they are being honest and careful in handling your private data.
+
+By contrasting the two different types of buildings we can see the analogy of how everyday we make the decision to use technology and hand over our data to Software and Operating Systems that will operate on either Transparency and Clarity, or Obscurity and Uncertainty.
+
+To put more simply, we will come to many decision-making points in our lives where we will choose to either
+
+- A. Pay for Darkness, Blind Faith, Obscurity, and Uncertainty that comes inherently with Closed Source/Proprietary Software/Systems.
+- B. Embrace Open Source Software/Systems, choosing Freedom, Light, Transparency and Clarity which is typically also Free of Cost.
+
+This is important to realize because many times, not only do we enable reckless and careless access to our data, but in fact many people are in essence paying to have their data stolen. This is exemplified by people who pay a large sum of money to purchase iOS devices which are the most closed of all closed-source devices and operating systems to say the least without mentioning the limiting and technologically suppressing anti-features (such as not being able to insert SD Cards or Transfer Files to any Computer in a simple manner). 
+There were many people who were aware of the backdoors built-in to iOS devices many years before it made the news and was brought to light. Many people fell victim to private data leaks due to this.
 The entire concept represented by all of the workings of the Apple have failed the test of time and continue to fail to this day.
 </ul></details></details>
 </details><details><summary><b>
 How can one participate in the growth, promotion and encouragement of the Open Source Philanthropical and Philosophical Practices?
 </b></summary>
 
-- If one wishes to participate in the growth, promotion and encouragement of the Open Source Philosophies and Practices, one should build upon what has been built with Open Source, such as choosing to switch to FOSS Operating Systems such as Linux, Gnu, Android, etc. while avoiding Windows, iOS, Mac, which are closed-source Operating Systems.
-- An excellent way to promote this practice is to liberate friends and family from using the default YouTube app on Android by encouraging them to try NewPipe where they can download Audio, Video, Subtitles, and allow Videos to Play their Audio in the Background. NewPipe can also be used to access and Soundcloud and Download Audio Files
+- Build upon what has been built with Open Source, such as choosing to switch to FOSS Operating Systems such as Linux, Gnu, Android, etc. while avoiding Windows, iOS, Mac, which are closed-source, Non-Free Operating Systems.
+- An excellent way to promote this practice is to liberate friends and family from using the default YouTube app on Android by encouraging them to try [NewPipe](https://newpipe.net/) which is a YouTube Wrapper/Client that removes ads while allowing downloading Audio, Video, Subtitles, and the ability to play Videos as Audio in the Background. NewPipe can also be used to access and Soundcloud and Download Audio Files
 - Whether one is stuck with a Closed-Source Operating System or whether they choose to Adhere to Open Source Systems, the next step in improving the protection of data and avoiding phising, malware, hacking, is to learn to use Firewalls and Network Monitoring Tools, since these will give a clear insight on all internet traffic that may occur on their devices.
 </details><details><summary><b>
 What other real-world applications besides software can the concept of Free and Open Source (FOS) be used in?
@@ -485,5 +489,5 @@ Related Links
 [Pine64 Phones](https://pine64.com/product-category/smartphones/)  
 [Pine64 Laptops](https://pine64.com/product-category/laptops/)   
 [PyraBox](https://pyra-handheld.com/boards/pages/pyra/)
-
+[OneCommunity](https://www.onecommunityglobal.org/open-source/)
 </details>
