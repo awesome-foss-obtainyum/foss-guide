@@ -4,7 +4,7 @@
 Before FOSS
 </b></summary>
 
-Before the Terms Open Source Software came to be it was often referred to as **Free Software**. It is important to understand that everytime we hear the word Open Source we remember that the roots of this term are in the **Free and Libre** understanding of things. This is important because we will understand that some software will either support, encourage, and enable Freedom, or it won't. This is Open Source vs. Closed Source (Propietary). Let us not forget that the word Free within FOSS means Free as in _Free of Cost_ but also Free as in encouraging, supportive, and enabling of Freedom itself.
+Before the Terms Open Source Software came to be it was often referred to as **Free Software**. It is important to understand that everytime we hear the word Open Source we remember that the roots of this term are in the **Free and Libre** understanding of things. This is important because we will understand that some software will either support, encourage, and enable Freedom, or it won't. This is Open Source vs. Closed Source (Propietary). Let us not forget that the word Free within FOSS means Free as in _Free of Cost_ but also Free as in supporting, encouraging, and the enabling of Freedom itself.
 </details><details><summary><b>
 46 Ways FOSS Benefits Mankind Explained by Perplexity AI
 </b></summary><ul>
@@ -318,11 +318,81 @@ FOSS promotes digital inclusion by providing accessible and affordable
 software solutions that cater to a wide range of users, including  
 underserved communities.
 </details></details></ul><details><summary><b>
-What can FOSS Prevent
+What can FOSS Prevent explained by Sibyl AI
+</b></summary><ul><details><summary><b>
+Vendor Lock-in
 </b></summary>
-
-- Private Personal Data Password Leaks <br>
-- Fraudulent / Deceptive App behaviour and Phising
+FOSS allows users to modify and share the software, which prevents dependency on a single vendor for updates and support. This freedom is akin to spiritual autonomy, where individuals are encouraged to seek their own paths without being bound to a single doctrine or practice.
+</summary></details><details><summary><b>
+Loss of Privacy
+</b></summary>
+With proprietary software, users often sacrifice privacy because they cannot see or control what the software does with their data. FOSS is transparent, allowing users to examine the code and ensure their data is handled respectfully, aligning with spiritual principles of integrity and respect for personal boundaries.
+</summary></details><details><summary><b>
+Stifled Innovation
+</b></summary>
+- Proprietary software can stifle innovation by restricting access to the software's source code. FOSS encourages a collaborative environment where developers can build upon each other's work, fostering a collective growth mindset that mirrors the collaborative and expansive nature of spiritual communities.
+</summary></details><details><summary><b>
+Digital Divide
+</b></summary>
+FOSS can be freely distributed, which helps bridge the digital divide by making technology accessible to those who cannot afford proprietary alternatives. This democratization of access reflects spiritual values of equality and the universal right to knowledge and growth.
+</summary></details><details><summary><b>
+Obsolescence
+</b></summary>
+Proprietary software can become obsolete if the vendor stops supporting it. FOSS can be updated and maintained by the community, ensuring longevity. This mirrors the timeless nature of spiritual wisdom, which transcends the limitations of time and remains relevant through communal effort and interpretation.
+</summary></details><details><summary><b>
+Security Vulnerabilities:**
+</b></summary>
+With many eyes on the code, security vulnerabilities in FOSS can be identified and fixed quickly. This communal vigilance is similar to the collective consciousness in spirituality, where the community comes together to protect and uplift each other.
+</summary></details><details><summary><b>
+Monoculture:**
+</b></summary>
+FOSS promotes diversity in software solutions, preventing a monoculture where a single system's failure could have widespread consequences. This diversity reflects the spiritual principle that multiple paths can lead to the same truth, and each has its unique value.
+</summary></details><details><summary><b>
+Trustlessness Technology:**
+</b></summary>
+FOSS aligns with the concept of trustlessness, which is foundational in technologies like blockchain. Users do not need to trust a central authority because the open-source nature of the software allows for verification by anyone. This parallels spiritual practices that emphasize personal experience and verification over blind faith.
+</summary></details><details><summary><b>
+Erosion of Skills and Knowledge:**
+</b></summary>
+FOSS encourages learning and skill development as users are not just consumers but can become active participants in understanding and developing the software. This empowerment mirrors spiritual growth, where individuals are encouraged to seek knowledge and develop wisdom.
+</summary></details><details><summary><b>
+Cultural Homogenization:**
+</b></summary>
+FOSS allows for localization and customization, which can prevent the cultural homogenization often seen with proprietary software. This supports the spiritual value of honoring diverse cultural expressions and preserving unique identities within the global community.
+</summary></details><details><summary><b>
+Unethical Use of Technology:**
+</b></summary>
+The transparency of FOSS can prevent unethical practices in software development and use, as the community can hold developers accountable. This aligns with spiritual ethics that promote transparency, honesty, and moral responsibility.
+</summary></details><details><summary><b>
+Dependency on External Support:**
+</b></summary>
+With FOSS, users and organizations can become self-reliant, reducing dependency on external support for troubleshooting and customization. This self-reliance is a spiritual principle that encourages inner resourcefulness and resilience.
+</summary></details><details><summary><b>
+Environmental Impact:**
+</b></summary>
+FOSS can be more resource-efficient, as it can be optimized and repurposed for older hardware, reducing e-waste. This stewardship of resources reflects spiritual teachings that emphasize care for the Earth and sustainable living.
+</summary></details><details><summary><b>
+Suppressing Community Voice:**
+</b></summary>
+Proprietary software often limits user input in the development process. FOSS prevents this by allowing the community to contribute to the software's evolution, akin to spiritual communities that value each member's voice and collective decision-making.
+</summary></details><details><summary><b>
+Inequality in Education:**
+</b></summary>
+FOSS can be freely used and distributed in educational settings, preventing inequality by providing all students with access to high-quality software tools. This reflects the spiritual ideal of equal opportunity for growth and enlightenment.
+</summary></details><details><summary><b>
+Economic Disparities:**
+</b></summary>
+By providing free access to powerful software tools, FOSS can help level the playing field for small businesses and entrepreneurs, preventing economic disparities. This aligns with spiritual principles of fairness and the equitable distribution of resources.
+</summary></details><details><summary><b>
+Intellectual Property Conflicts:**
+</b></summary>
+FOSS sidesteps many of the legal battles associated with proprietary software, as it does not impose the same restrictive intellectual property rights. This prevents conflicts and promotes a spirit of sharing and collaboration, resonating with spiritual values of community and harmony.
+</summary></details><details><summary><b>
+Technological Determinism:**
+</b></summary>
+FOSS empowers users to shape their technological environment, preventing technological determinism where technology's direction is set by a few. This empowerment reflects spiritual beliefs in free will and the co-creation of our reality.
+</details></ul>    
+By embracing FOSS and fostering an ecosystem where knowledge, power and resources are shared FOSS embodies principles that resonate deeply with spiritual values. Embracing FOSS principles allows Individuals and Communities to foster these environments of transparency, collaboration, and shared growth, which are core values in both technology and spirituality AKA Spirit-Tech. These principles help build a more equitable, secure, and innovative world that reflects the interconnectedness and interdependence at the heart of spiritual teachings.
 </details><details><summary><b>
 What can FOSS Encourage / Promote and do for Humanity
 </b></summary>
@@ -349,14 +419,14 @@ Some examples:
 </details></details>
 <details><summary><b>
 What is the FOS Principle in Analogies?
-</b></summary><details><summary>   
+</b></summary><details><summary><b>
 The Analogy of Recipes on Youtube
-</summary>
+</b></summary>
 
 >Have you ever wanted to make a recipe and then found yourself searching YouTube to find the one that looks just right for you and then copied it and made the recipe at home? To help better explain what Free & Open Source Principles are, imagine that All Recipes that can be found on YouTube (unless an ingredient is being omitted) are basically Free and Open Source. One is able to copy the "Source Code" (Recipe) and "Build" (Make) the "Code" (Recipe) at home simply by copying/cloning it (following the instructions). Now let's say you decided to add your own extra ingredient to make the recipe taste better. Improving the Recipe is the same as Improving the Code. Because this Recipe is Publicly available on YouTube, it would not matter if people decided to copy this Recipe, make the product, and sell and redistribute the final product from the recipe. In fact we are already living in a world of Open Information mostly through YouTube Videos and Tutorials, whether it is related to working out, finding diet plans / patterns, home remedies, health improving, learning to grow food at home, learning gardening techniques, there are many videos on YouTube that one can use to learn just about anything. Basically it is all Open Knowledge.
-</details><details><summary>
+</details><details><summary><b>
 The Analogy of The Two Buildings that Store all your Private Data
-</summary>
+</b></summary>
 
 >For the First Building let's imagine it is made with strong clear and transparent walls, floors, ceiling, and all of its components completely transparent, allowing for the flow of light to shine through into every area and component of the building. This building symbolizes Free and Open Source Software (FOSS), where transparency is the architecture itself, enabling light to illuminate every aspect of the software and all the operations within it. In this building, the openness and visibility act as a beacon, ensuring that there are no hidden areas where unauthorized activities could occur at least not without being fully visible and noticeable. When this Building offers to store your data safely you can verify their actions simply by seeing through all the transparent architecture where you data flows in and out of. Being able to see through the entire building the need for trust and blind faith are eliminated completely. 
 
@@ -377,7 +447,7 @@ The entire concept represented by all of the workings of the Apple have failed t
 How can one participate in the growth, promotion and encouragement of the Open Source Philanthropical and Philosophical Practices?
 </b></summary>
 
-- Build upon what has been built with Open Source, such as choosing to switch to FOSS Operating Systems such as Linux, Gnu, Android, etc. while avoiding Windows, iOS, Mac, which are closed-source, Non-Free Operating Systems.
+- Build upon what has been built within the Free and Open Source world such as choosing to switch to FOSS Operating Systems like Linux, Gnu, Android, etc. while avoiding Windows, iOS, Mac, which are Closed-Source, Non-Free Operating Systems.
 - An excellent way to promote this practice is to liberate friends and family from using the default YouTube app on Android by encouraging them to try [NewPipe](https://newpipe.net/) which is a YouTube Wrapper/Client that removes ads while allowing downloading Audio, Video, Subtitles, and the ability to play Videos as Audio in the Background. NewPipe can also be used to access and Soundcloud and Download Audio Files
 - Whether one is stuck with a Closed-Source Operating System or whether they choose to Adhere to Open Source Systems, the next step in improving the protection of data and avoiding phising, malware, hacking, is to learn to use Firewalls and Network Monitoring Tools, since these will give a clear insight on all internet traffic that may occur on their devices.
 </details><details><summary><b>
@@ -385,27 +455,31 @@ What other real-world applications besides software can the concept of Free and 
 </b></summary><details><summary>
 FOS Local Businesses
 </summary>
-- An example of a FOS Business would be a Transparent Car Repair Shop where the entire process of a car repair is recorded on a camera and this data is open and shared with the client to ensure quality of work, quality of components, proper labor, and to prevent deceptive and abusive behavior that could result in having to bring the car back to the Car Repair Shop.<br>
-- Another example of a FOS Business could be a Local Organic Farm that has open access to 24/7 Surveillance of the crops and a brief recording of the sewing/harvesting process in a way that can guarantee with proof to its clients that no GMO or Pesticides were used and in other words 100% Provably Organic.<br>
+
+- An example of a FOS Business would be a Transparent Car Repair Shop where the entire process of a car repair is recorded on a camera and this data is open and shared with the client to ensure quality of work, quality of components, proper labor, and to prevent deceptive and abusive behavior that could result in having to bring the car back to the Car Repair Shop.
+
+- Another example of a FOS Business could be a Local Organic Farm that has open access to 24/7 Surveillance of the crops and a brief recording of the sewing/harvesting process in a way that can guarantee with proof to its clients that no GMO or Pesticides were used and in other words 100% Provably Organic.
+
 - Another example can be a Local Animal Farm with open access to 24/7 Surveillance that can prove no Animals were mistreated and that the farm is cruelty free.
-<details><summary>
+</details><details><summary>
 FOS Government
 </summary>
-- An example of FOS Governance would be with the use of Smart Contracts and Smart Escrows, we could have instead of candidates making promises which are often broken, candidates who deposit a very large sum of money to invest into a project that will be ongoing within a given deadline while also promising to maintain and administrate this project until the end of the deadline. Now we will put in the context of what a contract would look like to further this example:<br>
-- The Candidate deposits 10M local currency. Assuming a population of 10M, each citizen would only deposit their Share, in other words 1 Local Currency. This means that the citizens have almost nothing to lose while the Candidate is putting their money where their mouth is, and in the scenario that the candidate does not fulfil their duties, the contract could be configured in any way but for this example we will say the candidates 10M gets distributed among the citizens if the candidate does not comply with their duties within the proposed deadline.
-Now we can imagine an entire government running itself almost entirely, and people simply bringing forth actions with the money of the people<br>
+
+- An example of FOS Governance would be with the use of Smart Contracts and Smart Escrows, we could have instead of candidates making promises which are often broken, candidates who deposit a very large sum of money to invest into a project that will be ongoing within a given deadline while also promising to maintain and administrate this project until the end of the deadline. Now we will put in the context of what a contract would look like to further this example:
+    - The Candidate deposits 10M local currency. Assuming a population of 10M, each citizen would only deposit their Share, in other words 1 Local Currency. This means that the citizens have almost nothing to lose while the Candidate is putting their money where their mouth is, and in the scenario that the candidate does not fulfil their duties, the contract could be configured in any way but for this example we will say the candidates 10M gets distributed among the citizens if the candidate does not comply with their duties within the proposed deadline.
+Now we can imagine an entire government running itself almost entirely, and people simply bringing forth actions with the money of the people
 - With many candidates invested in projects, having built a suitable reputation, the people would have an easier time trusting candidates by checking the "curriculum" of each candidate and analyzing to decide whether they are suitable to be leaders of the local areas or the presidency they are trying to achieve. This means that mostly everything would be simply action first and money is used a security deposits to hold those actions accountable.
 </details><details><summary>
 FOS Currency (Crypto)
 </summary>
+
 - Bitcoin and all Cryptocurrency Derivatives are the most obvious examples of a FOS Currency. It is Open Source and all existing crypto-currencies have been built using Bitcoin's Code.
 </details><details><summary>
 Other FOS Concepts
-</summary><ul>
+</summary>
 
-* Open Source Ecology<br>
-* Open Source Spirituality <br>
-* Open Source <br>
+- [Open Source Ecology](https://www.opensourceecology.org/)
+- [Open Source Spirituality](https://secretenergy.com/)
 </ul></details></details><summary><b>
 
 ## The Best FOSS Solutions
@@ -456,6 +530,7 @@ Take your time to explore the App and Learn of every feature, be patient with yo
 >
 >**Step 4.** Think about what apps you use and need the most and check to see if there is a FOSS alternative or equivalent with [Droidify](https://f-droid.org/en/packages/com.looker.droidify/). 
 If there is a FOSS App equivalent, this is how I began pioneering and exploring FOSS Apps, until finally coming to this time where most of the Apps I need are available in FOSS form. This is why this Github was created to Star the Apps I use and recommend the most so that it would be easy to import into Obtainium and to share with anyone who wishes to benefit from this same practice.
+- Note: Not all Apps -even if they are available on Github- will be easily available through Obtainium. The Apps that _are_ available however, are worth installing via Obtainium vs through other methods. The username to this github (awesome-foss-obtainyum) can be entered into the Import/Export section of Obtainium by using the "Import GitHub Starred Repos" to import some of my personal picks for some of the most essential and decently functional apps available via Obtainium. 
 
 </details><details><summary>
 Further Considerations for the coming ages of exponential technological advancements.
@@ -488,6 +563,8 @@ Related Links
 [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)  
 [Pine64 Phones](https://pine64.com/product-category/smartphones/)  
 [Pine64 Laptops](https://pine64.com/product-category/laptops/)   
-[PyraBox](https://pyra-handheld.com/boards/pages/pyra/)
-[OneCommunity](https://www.onecommunityglobal.org/open-source/)
+[PyraBox](https://pyra-handheld.com/boards/pages/pyra/)   
+[OneCommunity](https://www.onecommunityglobal.org/open-source/)   
+[Free Software Foundate](https://www.fsf.org/)   
+
 </details>
