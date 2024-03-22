@@ -4,7 +4,7 @@
 Before FOSS
 </b></summary>
 
-Before the Terms Open Source Software came to be it was often referred to as **Free Software**. It is important to understand that everytime we hear the word Open Source we remember that the roots of this term are in the **Free and Libre** understanding of things. This is important because we will understand that some software will either support, encourage, and enable Freedom, or it won't. This is Open Source vs. Closed Source (Propietary). Let us not forget that the word Free within FOSS means Free as in _Free of Cost_ but also Free as in supporting, encouraging, and the enabling of Freedom itself.
+Before the Terms Open Source Software came to be it was often referred to as **Free Software**. It is important to understand that everytime we hear the word Open Source we remember that the roots of this term are in the **Free and Libre** understanding of things. This is important because we will understand that some software will either support, encourage, and enable Freedom, or it won't. In shorter words Open Source vs. Closed Source (Propietary) is the same as Free vs Unfree Software. Let us not forget that the word Free within FOSS means Free as in _Free of Cost_ but also Free as in supporting, encouraging, and the enabling of Freedom itself.
 </details><details><summary><b>
 46 Ways FOSS Benefits Mankind Explained by Perplexity AI
 </b></summary><ul>
@@ -483,6 +483,30 @@ Other FOS Concepts
 </ul></details></details><summary><b>
 
 ## The Best FOSS Solutions
+</b></summary>
+<details><summary><b>
+The Best FOS Mobile Device Operating Systems
+</b></summary>
+<ul>
+
+[CalyxOS](https://calyxos.org/)  
+[GrapheneOS](https://calyxos.org/)  
+[LineageOS](https://lineageos.org/)  
+[Sailfish OS](https://sailfishos.org/)  
+[Plasma Mobile](https://plasma-mobile.org/)  
+[Ubuntu Touch](https://ubuntu-touch.io/)  
+[Postmarket OS](https://postmarketos.org/)  
+[Replicant (Android)](https://www.replicant.us/)  
+[Pure OS](https://www.pureos.net/)  
+[Mobian OS](https://mobian-project.org/)  
+[Maru OS ( "Use your Phone as your PC" )](https://maruos.com/)  
+[KaiOS ( For Keypad Feature Phones )](https://en.wikipedia.org/wiki/KaiOS)  
+[Asteroid OS ( For Smartwatches )](https://asteroidos.org/)  
+
+
+
+</ul>
+</details>
 </b></summary>
 <details><summary><b>
 For Windows Users
