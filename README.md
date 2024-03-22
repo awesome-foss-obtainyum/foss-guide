@@ -503,16 +503,31 @@ The Best FOS Mobile Device Operating Systems
 [KaiOS ( For Keypad Feature Phones )](https://en.wikipedia.org/wiki/KaiOS)  
 [Asteroid OS ( For Smartwatches )](https://asteroidos.org/)  
 
-
-
-</ul>
-</details>
+</ul></details><details><summary><b>
+Other Awesome FOS Things
 </b></summary>
+<ul>
+
+[GeekBox Open Source Cross TV BOX](https://www.geekbuying.com/item/GeekBox-Open-Source-Cross-TV-BOX-Android-Ubuntu-Dual-Boot-4K-RK3368-Octa-Core-2G-16G-AC-WIFI-1000M-LAN-BT4-1-HDMI2-0-OTG-358067.html)  <details><summary>
+[Pine64 Devices](https://pine64.org/devices/)</summary>
+
+- [Pine Time: Smartwatch](https://pine64.org/devices/pinetime/)  
+- [Pine Buds Pro: Earbuds](https://pine64.org/devices/pinebuds_pro/)
+- [Pine Note: Eink Tablet](https://pine64.org/devices/pinenote/)  
+- [Pine Cube: IP Camera](https://pine64.org/devices/pinecube/)  
+- [Pinecil: Soldering Iron](https://pine64.org/devices/pinecil/)  
+- [PinePower Desktop: 120W Desktop Power Supply](https://pine64.org/devices/pinepower_desktop/)  
+- [PinePower: A 65W GaN Power Supply](https://pine64.org/devices/pinepower/)  
+- [PineVox: SmartHome Device](https://pine64.org/devices/pinevox/)
+- [PinePhone Pro Keyboard](https://pine64.org/documentation/Phone_Accessories/Keyboard/)
+</details>
+</summary></ul></details>
+
 <details><summary><b>
 For Windows Users
 </b></summary>
 
-There are two powerful Open Source Firewalls which if combined together can provide excellent safety measures against most threats that depend on internet connections. Namely, these are <b>Portmaster</b> and <b>Simplewall</b>
+There are two powerful Open Source Firewalls which if combined together can provide excellent safety measures against most threats that depend on internet connections. Namely, these are <b>[Portmaster](https://safing.io/)</b> and <b>[Simplewall](https://github.com/henrypp/simplewall)</b>
 
 - **Portmaster** will grant further insight and control over what internet connections each app is making. By implementing DNS, Portmaster can selectively block certain domains (websites/url) for each app individually. This means you could have for eg. Firefox where you might block Big Data (by using the built-in block list in the filters section) and then you could have Waterfox where you allow everything. In this way you can use Firefox to do Banking safely and securely without allowing unnecessary connections where data could be leaked while using Waterfox for ordinary browsing.
 
@@ -589,6 +604,6 @@ Related Links
 [Pine64 Laptops](https://pine64.com/product-category/laptops/)   
 [PyraBox](https://pyra-handheld.com/boards/pages/pyra/)   
 [OneCommunity](https://www.onecommunityglobal.org/open-source/)   
-[Free Software Foundate](https://www.fsf.org/)   
+[Free Software Foundation](https://www.fsf.org/)   
 
 </details>
