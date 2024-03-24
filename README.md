@@ -451,7 +451,7 @@ How can one participate in the growth, promotion and encouragement of the Open S
 - An excellent way to promote this practice is to liberate friends and family from using the default YouTube app on Android by encouraging them to try [NewPipe](https://newpipe.net/) which is a YouTube Wrapper/Client that removes ads while allowing downloading Audio, Video, Subtitles, and the ability to play Videos as Audio in the Background. NewPipe can also be used to access and Soundcloud and Download Audio Files
 - Whether one is stuck with a Closed-Source Operating System or whether they choose to Adhere to Open Source Systems, the next step in improving the protection of data and avoiding phising, malware, hacking, is to learn to use Firewalls and Network Monitoring Tools, since these will give a clear insight on all internet traffic that may occur on their devices.
 </details><details><summary><b>
-What other real-world applications besides software can the concept of Free and Open Source (FOS) be used in?
+What other real-world applications besides software can the concept of Free and Open Source (FOS) be used in?  
 </b></summary><details><summary>
 FOS Local Businesses
 </summary>
@@ -504,11 +504,24 @@ The Best FOS Mobile Device Operating Systems
 [Asteroid OS ( For Smartwatches )](https://asteroidos.org/)  
 
 </ul></details><details><summary><b>
+Top Cross-Platform (Essential) FOSS Apps
+</b></summary>
+<ul>
+
+[LibreOffice - Office Suite](https://www.libreoffice.org/)  
+[Logseq - Note-Taking/Personal Data Management App](https://logseq.com/)  
+[Portmaster - Best Firewall + DNS](https://safing.io/)  
+[Element - Messaging App](https://element.io/)  
+[TutaMail - Email ](https://app.tuta.com)  
+[Syncthing - Continuous File Synchronization](https://syncthing.net/)  
+[qBittorrent - Torrent Client](https://www.qbittorrent.org/)
+</ul></details><details><summary><b>
 Other Awesome FOS Things
 </b></summary>
 <ul>
 
-[GeekBox Open Source Cross TV BOX](https://www.geekbuying.com/item/GeekBox-Open-Source-Cross-TV-BOX-Android-Ubuntu-Dual-Boot-4K-RK3368-Octa-Core-2G-16G-AC-WIFI-1000M-LAN-BT4-1-HDMI2-0-OTG-358067.html)  <details><summary>
+[GeekBox: Open Source Cross TV BOX](https://www.geekbuying.com/item/GeekBox-Open-Source-Cross-TV-BOX-Android-Ubuntu-Dual-Boot-4K-RK3368-Octa-Core-2G-16G-AC-WIFI-1000M-LAN-BT4-1-HDMI2-0-OTG-358067.html)  
+[The Pyra: The most feature-rich ultra portable Mini Computer](https://pyra-handheld.com/boards/pages/pyra/)<br><details><summary>
 [Pine64 Devices](https://pine64.org/devices/)</summary>
 
 - [Pine Time: Smartwatch](https://pine64.org/devices/pinetime/)  
@@ -521,21 +534,27 @@ Other Awesome FOS Things
 - [PineVox: SmartHome Device](https://pine64.org/devices/pinevox/)
 - [PinePhone Pro Keyboard](https://pine64.org/documentation/Phone_Accessories/Keyboard/)
 </details>
-</summary></ul></details>
+</ul></details>
 
 <details><summary><b>
 For Windows Users
 </b></summary>
 
+<details><summary><b>
+Firewalls
+</b></summary>
+Gaining Consciousness and Control over all your Internet Traffic should be a Skill familiar to all users, novices and experts alike since this will determine the level of vulnerability against any types of threats  
+</b></summary>
+
 There are two powerful Open Source Firewalls which if combined together can provide excellent safety measures against most threats that depend on internet connections. Namely, these are <b>[Portmaster](https://safing.io/)</b> and <b>[Simplewall](https://github.com/henrypp/simplewall)</b>
 
-- **Portmaster** will grant further insight and control over what internet connections each app is making. By implementing DNS, Portmaster can selectively block certain domains (websites/url) for each app individually. This means you could have for eg. Firefox where you might block Big Data (by using the built-in block list in the filters section) and then you could have Waterfox where you allow everything. In this way you can use Firefox to do Banking safely and securely without allowing unnecessary connections where data could be leaked while using Waterfox for ordinary browsing.
+>- **Portmaster** will grant further insight and control over what internet connections each app is making. By implementing DNS, Portmaster can selectively block certain domains (websites/url) for each app individually. This means you could have for eg. Firefox where you might block Big Data (by using the built-in block list in the filters section) and then you could have Waterfox where you allow everything. In this way you can use Firefox to do Banking safely and securely without allowing unnecessary connections where data could be leaked while using Waterfox for ordinary browsing.
 
-- **Simplewall** can block most unnecessary network connections that are enabled by default in windows, but even better, Simple Wall allows one to give individual apps internet access using a timer, allowing one to allow an app only the amount of time needed to perform an action (for eg. an update). This is also excellent to audit apps and ensure one does not accidentally block an app that is crucial while finding out if the app in question ever needed internet access at all (Surprisingly many Windows/Microsoft apps do not need internet, it is fair enough to ensure no data is leaked by blocking most of them)
-</details><details><summary><b>
+>- **Simplewall** can block most unnecessary network connections that are enabled by default in windows, but even better, Simple Wall allows one to give individual apps internet access using a timer, allowing one to allow an app only the amount of time needed to perform an action (for eg. an update). This is also excellent to audit apps and ensure one does not accidentally block an app that is crucial while finding out if the app in question ever needed internet access at all (Surprisingly many Windows/Microsoft apps do not need internet, it is fair enough to ensure no data is leaked by blocking most of them)
+</details></details><details><summary><b>
 For Any and All your devices
 </b></summary>
-it is worth researching (Just ask AI) how to use Pi-Holes and set one up at home. The Pi-Hole can provide basic-to-advanced level protection for all your devices by using DNS. You may also want to look into FOSS Routers such as:<br>
+it is worth researching (Just ask AI) how to use Pi-Holes and set one up at home. The Pi-Hole can provide basic-to-advanced level protection for all your devices by using DNS. You may also want to look into FOSS Routers such as:  
 
 * LibreRouter<br>
 * pfSense<br>
@@ -545,19 +564,26 @@ it is worth researching (Just ask AI) how to use Pi-Holes and set one up at home
 For Android Users
 </b></summary>
 
-- Making use of both Droidify combined with Obtainium makes for an excellent way of finding and downloading Apps. Currently Droidify can explore the entire F-Droid Repository, while Obtainium is manual and can be used to get Apps directly from Github if available<br>
-- Droidify is a client for the F-Droid Repository (A repository tasked with hosting only FOSS Android Apps, which also checks to ensure the apps require only the permissions that are being claimed and to ensure the integrity vs Anti-Features that may be built in). To do this sort of certification process, F-Droid scans the APK Source code, then adds its own signature to the APK to sort of "verify" or "certify" that there are no Anti-Features that would go by unnoticed, while listing any Anti Features that may be found in the code.<br>
+- Making use of both Droidify combined with Obtainium makes for an excellent way of finding (With Droidify) and then downloading (with Obtainium) Apps if they are available via Github. Currently Droidify can explore the entire F-Droid Repository, while Obtainium is manual and can be used to get Apps directly from Github when available. <br>
+- Droidify is a client for the F-Droid Repository which is a repository tasked with hosting only FOSS Android Apps, which also checks to ensure the apps require only the permissions that are being claimed and to ensure the integrity vs Anti-Features that may be built in. To do this sort of certification process, F-Droid scans the APK Source code, then adds its own signature to the APK to sort of "verify" or "certify" that there are no Anti-Features that would go by unnoticed, while listing any Anti Features that may be found in the code.<br>
 - Obtainium is an App designed to fetch and install FOSS Apps directly from Github if available.<br>
-- With both of these Apps installed, one can use Droidify to find out if there are any Anti Features in the desired app. If one chooses the app is suitable and contains no anti-features, they may copy the GitHub Link provided in the App description, then paste that link into Obtanium if they prefer to fetch the pure APK (Without the F-Droid Signature)<br>
+- With both of these Apps installed, one can use Droidify to find out if there are any Anti Features in the app of interest. If one chooses an app that is suitable and contains no anti-features, they may find and copy the GitHub Link provided in the App description, then paste that link into Obtanium if they prefer to fetch the pure APK (Without the F-Droid Signature)<br>
+- I have provided a list of some of the most basic or crucial Apps I have been using for many years and can recommend in the form of this Github user's Starred Apps which was designed originally to be imported from within Obtainium. To import this list go to Obtainium>Import/Export>Import Github Starred Repos and type this Github's Username: (**Awesome-FOSS-Obtainyum**) (with a **Y** on the last i because Yum, that's Y).
 - For further Auditing of Apps, one can also make use of Aurora Store and App Manager (Can be found on F-Droid/Droidify). Both of these apps can provide a description of any trackers that may be found within apps. This helps to bring consciousness to how Apps use the internet and trackers which is where data often is leaked through.
 </details><details><summary><b>
 For Linux Users
 </b></summary>
-You are the Solution xD . Thank You. Keep Being Awesome and promote the use of Linux.
-</details></details>
+
+You *are* the Solution xD . Thank You. Keep Being Awesome! I love you
+<details><summary><b>
+Portmaster (Firewall + DNS)
+</summary></b>
+Better than other Linux Firewalls? A Firewall + DNS. Portmaster allows configuring both Firewalling and DNS for each app individually. When combined with multiple browsers, it is easier to separate private browsing such as banking and shopping from other kinds of browsing. 
+</details>
 
 ## A Simple Guide for Android Users to reducing and eliminating most (if not all) internet related risks.
->**Step 1.** Download a FOSS Keyboard.
+
+>**Step 1.** De-Google your Phone and Download a FOSS Keyboard.
 If you have already installed Obtainium you can Import the
 list of Starred Apps by going to Obtainium>Import>Import 
 from Starred Github Repo> and then typing Awesome-Foss-Obtainyum. Once you have Imported the List of Apps you will find FlorisBoard (An excellent FOSS Keyboard) listed which you can download and install. This is the first step because the default Keyboards on Most Android Phones (Google Keyboard) have access to internet and everything you type within the keyboard (Including passwords) is being sent to Google Servers. So before creating any new accounts with new passwords, ensure you have a FOSS Keyboard that does not even require an Internet Connection 
@@ -569,7 +595,7 @@ Take your time to explore the App and Learn of every feature, be patient with yo
 >
 >**Step 4.** Think about what apps you use and need the most and check to see if there is a FOSS alternative or equivalent with [Droidify](https://f-droid.org/en/packages/com.looker.droidify/). 
 If there is a FOSS App equivalent, this is how I began pioneering and exploring FOSS Apps, until finally coming to this time where most of the Apps I need are available in FOSS form. This is why this Github was created to Star the Apps I use and recommend the most so that it would be easy to import into Obtainium and to share with anyone who wishes to benefit from this same practice.
-- Note: Not all Apps -even if they are available on Github- will be easily available through Obtainium. The Apps that _are_ available however, are worth installing via Obtainium vs through other methods. The username to this github (awesome-foss-obtainyum) can be entered into the Import/Export section of Obtainium by using the "Import GitHub Starred Repos" to import some of my personal picks for some of the most essential and decently functional apps available via Obtainium. 
+>- Note: Not all Apps -even if they are available on Github- will be easily available through Obtainium. The Apps that _are_ available however, are worth installing via Obtainium vs through other methods. The username to this github (awesome-foss-obtainyum) can be entered into the Import/Export section of Obtainium by using the "Import GitHub Starred Repos" to import some of my personal picks for some of the most essential and decently functional apps available via Obtainium. 
 
 </details><details><summary>
 Further Considerations for the coming ages of exponential technological advancements.
@@ -592,6 +618,7 @@ If a Keyfile is modified it will change values crucial to functioning as a Keyfi
 </details><details><summary>
 To prepare for AI and other technology that can create deceptive, misleading information about you and or your loved ones</summary>
 
+- Adhere to Digitial Signature practices, these should be mandatory in political spheres and real estate. 
 - Avoid using (closed-source) Apps that can and likely (if not already do) sell your data and that probably have built-in backdoors
 - Adhere to only encrypted means of communication such as using e-mail with PGP and encrypting all mail by default
 - Adhering to using only FOSS Apps as much as possible while becoming a Master in Firewalls is the best way to prevent personal private data being leaked
