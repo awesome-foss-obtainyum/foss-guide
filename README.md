@@ -383,8 +383,9 @@ How can one participate in the growth, promotion and encouragement of the Open S
 </b></summary>
 
 - Build upon what has been built within the Free and Open Source world such as choosing to switch to FOSS Operating Systems like Linux, Gnu, Android, etc. while avoiding Windows, iOS, Mac, which are Closed-Source, Non-Free Operating Systems.
-- An excellent way to promote this practice is to liberate friends and family from using the default YouTube app on Android by encouraging them to try [NewPipe](https://newpipe.net/) which is a YouTube Wrapper/Client that removes ads while allowing downloading Audio, Video, Subtitles, and the ability to play Videos as Audio in the Background. NewPipe can also be used to access and Soundcloud and Download Audio Files
-- Whether one is stuck with a Closed-Source Operating System or whether they choose to Adhere to Open Source Systems, the next step in improving the protection of data and avoiding phising, malware, hacking, is to learn to use Firewalls and Network Monitoring Tools, since these will give a clear insight on all internet traffic that may occur on their devices.
+- An excellent way to promote this practice is to liberate friends and family from using the default YouTube app on Android by encouraging them to try [NewPipe](https://newpipe.net/) which is a YouTube Wrapper/Client that removes ads while allowing downloading Audio, Video, Subtitles, and the ability to play Videos as Audio in the Background. NewPipe can also be used to access Soundcloud and Download Audio Files
+- Whether one is stuck with a Closed-Source Operating System or whether they choose to Adhere to Open Source Systems, the next step in improving the protection of data and avoiding phising, malware, hacking, is to learn to use Firewalls and Network Monitoring Tools, since these will give a clear insight on all internet traffic that may occur on their devices. 
+[**Portmaster**](https://safing.io/) for Computers and [**RethinkDNS**](https://rethinkdns.com/) for Android should do the trick for the most part
 </details><details><summary><b>
 What other real-world applications besides software can the concept of Free and Open Source (FOS) be used in?  
 </b></summary><details><summary>
