@@ -388,31 +388,26 @@ How can one participate in the growth, promotion and encouragement of the Open S
 [**Portmaster**](https://safing.io/) for Computers and [**RethinkDNS**](https://rethinkdns.com/) for Android should do the trick for the most part
 </details><details><summary><b>
 What other real-world applications besides software can the concept of Free and Open Source (FOS) be used in?  
-</b></summary><details><summary>
-FOS Local Businesses
-</summary>
+</b></summary>
 
-- An example of a FOS Business would be a Transparent Car Repair Shop where the entire process of a car repair is recorded on a camera and this data is open and shared with the client to ensure quality of work, quality of components, proper labor, and to prevent deceptive and abusive behavior that could result in having to bring the car back to the Car Repair Shop.
+ - <details><summary>FOS Local Businesses</summary>
+   
+   - An example of an ideal FOS Local Business would be a Transparent Car Repair Shop where the entire process of a car repair is recorded on a camera and this data (ideally encrypted to a client's private keys) is open and shared with the client to ensure quality of work, quality of components, proper labor, and to prevent deceptive and abusive behavior that could result in having to bring the car back to the Car Repair Shop.
 
-- Another example of a FOS Business could be a Local Organic Farm that has open access to 24/7 Surveillance of the crops and a brief recording of the sewing/harvesting process in a way that can guarantee with proof to its clients that no GMO or Pesticides were used and in other words 100% Provably Organic.
+   - Another example of a FOS Business could be a Local Organic Farm that has open access to 24/7 Surveillance of the crops and a brief recording of the sewing/harvesting process in a way that can guarantee with proof to its clients that no GMO or Pesticides were used and in other words 100% Provably Organic.
 
-- Another example can be a Local Animal Farm with open access to 24/7 Surveillance that can prove no Animals were mistreated and that the farm is cruelty free.
-</details><details><summary>
-FOS Government
-</summary>
+   - Another example can be a Local Animal Farm with open access to 24/7 Surveillance that can prove no Animals were mistreated and that the farm is cruelty free.</details>
+   - <details><summary> FOS Government</summary>
 
-- An example of FOS Governance would be with the use of Smart Contracts and Smart Escrows, we could have instead of candidates making promises which are often broken, candidates who deposit a very large sum of money to invest into a project that will be ongoing within a given deadline while also promising to maintain and administrate this project until the end of the deadline. Now we will put in the context of what a contract would look like to further this example:
-    - The Candidate deposits 10M local currency. Assuming a population of 10M, each citizen would only deposit their Share, in other words 1 Local Currency. This means that the citizens have almost nothing to lose while the Candidate is putting their money where their mouth is, and in the scenario that the candidate does not fulfil their duties, the contract could be configured in any way but for this example we will say the candidates 10M gets distributed among the citizens if the candidate does not comply with their duties within the proposed deadline.
-Now we can imagine an entire government running itself almost entirely, and people simply bringing forth actions with the money of the people
-- With many candidates invested in projects, having built a suitable reputation, the people would have an easier time trusting candidates by checking the "curriculum" of each candidate and analyzing to decide whether they are suitable to be leaders of the local areas or the presidency they are trying to achieve. This means that mostly everything would be simply action first and money is used a security deposits to hold those actions accountable.
-</details><details><summary>
-FOS Currency (Crypto)
-</summary>
+     - An example of FOS Governance would be with the use of Smart Contracts and Smart Escrows, we could have instead of candidates making promises which are often broken, candidates who deposit a very large sum of money to invest into a project that will be ongoing within a given deadline while also promising to maintain and administrate this project until the end of the deadline. Now we will put in the context of what a contract would look like to further this example:
+     - The Candidate deposits 10M local currency. Assuming a population of 10M, each citizen would only deposit their Share, in other words 1 Local Currency. This means that the citizens have almost nothing to lose while the Candidate is putting their money where their mouth is, and in the scenario that the candidate does not fulfil their duties, the contract could be configured in any way but for this example we will say the candidates 10M gets distributed among the citizens if the candidate does not comply with their duties within the proposed deadline.
+     Now we can imagine an entire government running itself almost entirely, and people simply bringing forth actions with the money of the people
+     - With many candidates invested in projects, having built a suitable reputation, the people would have an easier time trusting candidates by checking the "curriculum" of each candidate and analyzing to decide whether they are suitable to be leaders of the local areas or the presidency they are trying to achieve. This means that mostly everything would be simply action first and money is used a security deposits to hold those actions accountable.</details>  
+     - <details><summary>FOS Currency (Crypto)</summary>
 
-- Bitcoin and all Cryptocurrency Derivatives are the most obvious examples of a FOS Currency. It is Open Source and all existing crypto-currencies have been built using Bitcoin's Code.
-</details><details><summary>
-Other FOS Concepts
-</summary>
+       - Bitcoin and all Cryptocurrency Derivatives are the most obvious examples of a FOS Currency. It is Open Source and all existing crypto-currencies have been built using Bitcoin's Code.
+</details>
+<details><summary><b>Other FOS Concepts</b></summary>
 
 - [Open Source Ecology](https://www.opensourceecology.org/)
 - [Open Source Spirituality](https://secretenergy.com/)
